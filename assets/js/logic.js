@@ -2,7 +2,7 @@
 
 const apiKey = 'xA6RmMBVdoPj1jG0wkGORoi9BKpO6ibt';
 
-const defaultQueries = ['evil laugh', 'facepalm', 'shark attack', 'spider attack', 'kitten attack', 'squirrel attack', 'car crash', 'jesus', 'captain kirk', 'jack nicholson', 'creepy child', 'potassium', 'mentos and coke', 'this is fine'];
+const defaultQueries = ['chili eyes', 'evil laugh', 'facepalm', 'shark attack', 'spider attack', 'kitten attack', 'squirrel attack', 'car crash', 'jesus', 'captain kirk', 'jack nicholson', 'creepy child', 'potassium', 'mentos and coke', 'this is fine'];
 const resultLimit = 10;
 
 let queries;
